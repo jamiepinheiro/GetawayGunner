@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Infinity Blade\Assets\Scripts\SpawnTerrain.cs">
+    <Files>
+      <File FileName="..\Infinity Blade\Assets\Scripts\SpawnTerrain.cs" Line="16" Column="80" />
+      <File FileName="..\Infinity Blade\Assets\Scripts\PlayerMovement.cs" Line="21" Column="131" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
